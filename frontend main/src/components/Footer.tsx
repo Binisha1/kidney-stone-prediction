@@ -5,7 +5,7 @@ function Footer() {
       <div className="lg:mx-32  py-8">
         <div className="flex justify-center items-center ">
           <a
-            href="https://github.com/deepikasainju/Kidney-stone-prediction"
+            href="https://github.com/Binisha1/kidney-stone-prediction"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center mr-4 hover:underline md:mr-20 text-white"
